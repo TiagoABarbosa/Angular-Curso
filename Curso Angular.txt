@@ -1,0 +1,28 @@
+Após instalação:
+
+cmd:
+cd Desktop
+cd Curso_Alura
+cd bytebank
+ng serve --open (iniciar service)
+
+bytebank app is running!
+
+Abra o VSCode
+
+Chegamos na hora de criar um componente:
+
+no terminal server
+ctrl + c para parar
+comando: ng generate component extrato
+
+component criado OK
+
+iniciar novamente mais facil:
+comando: s
+
+================================== 48%
+
+Exibindo lista com ngFor
+
+
