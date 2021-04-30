@@ -1,5 +1,4 @@
-import { Component, Output, EventEmitter } from '@angular/core';
-//import * as EventEmitter from 'node:events';
+import { Component, EventEmitter, Output } from '@angular/core';
 
 @Component({
   selector: 'app-nova-transferencia',
@@ -20,9 +19,8 @@ export class NovaTransferenciaComponent {
     this.limparCampos();
   }
 
-  limparCampos(){
+  limparCampos() {
     this.valor = null;
     this.destino = null;
   }
-
 }
