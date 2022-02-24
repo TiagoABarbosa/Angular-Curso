@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagoalvestec/)](https://www.linkedin.com/in/tiagoalvestec/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&https://www.instagram.com/tiago_alvves/)](https://www.instagram.com/tiago_alvves/)
 
-Alura - **Fundamentos de React: escrevendo com Typescript**
+Curso Alura - **Fundamentos de React: escrevendo com Typescript**
 
 ## Tecnologias:
 
@@ -25,6 +25,6 @@ Alura - **Fundamentos de React: escrevendo com Typescript**
 
 
 ## Link do Projeto:
-[Netlify]Aguarde [Heroku sleeping, wait 10 seconds to start the Backend]<p>
+[Netlify] Aguarde<p>
 
 <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" width="200">
