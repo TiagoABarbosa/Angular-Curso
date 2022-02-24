@@ -15,9 +15,9 @@ Alura - **Fundamentos de React: escrevendo com Typescript**
 
 [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-[![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]
+[![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 
-[(https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)[![VirtualCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://code.visualstudio.com/)
+[![VirtualCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://code.visualstudio.com/)
 
 
  ### Cloud :cloud:<p>
@@ -25,6 +25,6 @@ Alura - **Fundamentos de React: escrevendo com Typescript**
 
 
 ## Link do Projeto:
-[Netlify](Aguarde) [Heroku sleeping, wait 10 seconds to start the Backend]<p>
+[Netlify]Aguarde [Heroku sleeping, wait 10 seconds to start the Backend]<p>
 
-<img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" width="300">
+<img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" width="200">
